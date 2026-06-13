@@ -1,4 +1,4 @@
-# necessary-Being/God
+# Necessary-Being/God
 
 ---
 # Necessary Base (N): Eliminative Grounding Argument
